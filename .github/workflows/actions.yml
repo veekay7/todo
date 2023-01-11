@@ -15,13 +15,12 @@ jobs:
       - name: Run unit tests
         run: npm test
         env:
-          SQLITE_DB_LOCATION: /tmp/todo.db
-          
+          SQLITE_DB_LOCATION: /tmp/todo.db       
   build_and_push:
     runs-on: ubuntu-latest
     needs: test
     permissions:
-       contents: read
+      contents: read
       packages: write
     steps:
       - name: Checkout repository

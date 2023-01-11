@@ -1,5 +1,7 @@
 body {
     background-color: #f4f4f4;
+    background-image: url(../img/anya-cry.jpeg);
+    background-repeat: repeat;
     margin-top: 50px;
     font-family: 'Lato';
 }

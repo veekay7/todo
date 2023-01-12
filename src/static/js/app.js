@@ -3,7 +3,7 @@ function App() {
     return (
         <Container>
             <div class="title">
-                <p class="titlechild">Vinayak Teoh's Todo List</p>
+                <p class="title-child">Vinayak Teoh's Todo List</p>
             </div>
             <Row>
                 <Col md={{ offset: 3, span: 6 }}>

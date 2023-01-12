@@ -6,7 +6,8 @@ body {
     font-family: 'Lato';
 }
 
-h1 {
+.title {
+    background-color: white;
     align-content: center;
 }
 

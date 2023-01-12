@@ -11,10 +11,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 7px;
+    margin-bottom: 10px;
 }
 
 .title-child {
-    align-content: center;
     font-size: xx-large;
 }
 

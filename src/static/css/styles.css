@@ -8,11 +8,11 @@ body {
 
 .title {
     background-color: white;
-    align-content: center;
 }
 
-.centertext {
-    align-content: center
+.title-child {
+    align-content: center;
+    font-size: xx-large;
 }
 
 .item {

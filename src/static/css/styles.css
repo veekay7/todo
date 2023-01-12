@@ -11,6 +11,10 @@ body {
     align-content: center;
 }
 
+.centertext {
+    align-content: center
+}
+
 .item {
     background-color: white;
     padding: 15px;
